@@ -1,4 +1,4 @@
-baseURL = "https://phalt.co/"
+baseURL = "https://phalt.github.io/"
 languageCode = "en-gb"
 title = "An Infinitely Protean Machine"
 theme = "pristine"
