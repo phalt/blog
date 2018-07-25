@@ -5,11 +5,17 @@ draft: false
 ---
 
 Paul is a passionate Senior Software Engineer.
+
 He is an expert in Python, Django, HTTP APIs, Service Oriented Architectures, and Software Testing.
+
 He has over 6 years experience working with growing tech startups in London and San Francisco.
+
 Has has 2 years experience as an Engineering Team Lead.
+
 Paul specialises in the design, implementation, and maintenance of large scale, distributed services.
+
 Paul is a member of the [Django Software Foundation](https://www.djangoproject.com/foundation/).
+
 In his spare time Paul enjoys bouldering, drinking coffee and craft beer, traveling, and board games.
 
 Paul has extensive experience working with the following technologies:
