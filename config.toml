@@ -1,0 +1,47 @@
+baseURL = "https://phalt.co/"
+languageCode = "en-gb"
+title = "An Infinitely Protean Machine"
+theme = "pristine"
+canonifyURLs = true
+enableEmoji = true
+googleAnalytics = "UA-XXXXXX-1"
+[params]
+    portrait = "img/portrait.jpg"
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:paulandrewhallett@gmail.com"
+[[params.social]]
+    title = "Follow @phalt_"
+    url = "https://twitter.com/phalt_"
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/phalt"
+[[params.social]]
+    title = "CV"
+    url = "https://stackoverflow.com/cv/phalt"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/all/"
+  weight = 2
+
+[[menu.projects]]
+  name = "PokéAPI - The Pokémon API"
+  url = "https://pokeapi.co"
+  weight = 1
+
+[[menu.projects]]
+  name = "SWAPI - The Star Wars API"
+  url = "https://swapi.co"
+  weight = 2
+
+[[menu.projects]]
+  name = "Beckett - HTTP API client"
+  url = "https://phalt.github.io/beckett/"
+  weight = 3
