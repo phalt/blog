@@ -10,7 +10,7 @@ He is an expert in Python, Django, HTTP APIs, Service Oriented Architectures, an
 
 He has over 6 years experience working with growing tech startups in London and San Francisco.
 
-He has 2 years experience as an Engineering Team Lead.
+He has 2 years experience as a Tech Lead.
 
 Paul specialises in the design, implementation, and maintenance of large scale, distributed services.
 
