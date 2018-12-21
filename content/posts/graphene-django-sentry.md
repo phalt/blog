@@ -18,9 +18,11 @@ It's an incredibly small package (only 23 lines long, and most of that is to mak
 
 First, install the package:
 
+<hr>
 ```bash
 pip install graphene-django-sentry
 ```
+<hr>
 
 Second, in your `urls.py` just replace your normal `GraphQLView` with the one in the package:
 
@@ -46,6 +48,7 @@ That's it!
 So to recap, this enables:
 
 1) Exceptions raised in graphene Queries and Mutations to appear in Sentry.
+
 2) Your graphQL API to propagate exceptions back to the consumer like normal.
 
 It's the best of both worlds!
