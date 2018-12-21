@@ -26,6 +26,7 @@ pip install graphene-django-sentry
 
 Second, in your `urls.py` just replace your normal `GraphQLView` with the one in the package:
 
+<hr>
 ```python
 from django.conf.urls import url
 from django.views.decorators.csrf import csrf_exempt
@@ -42,6 +43,7 @@ urlpatterns = [
     ),
 ]
 ```
+<hr>
 
 That's it!
 
