@@ -55,3 +55,5 @@ It's the best of both worlds!
 A big shout-out to [Ioanna Kokkini](https://github.com/ioannakok) who investigated and built the original version for us internally.
 
 We used [cookicutter](https://github.com/audreyr/cookiecutter) to generate the pypi package.
+
+See the project here: https://github.com/phalt/graphene-django-sentry
