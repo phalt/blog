@@ -6,7 +6,7 @@ draft: false
 
 I am a passionate Technologist.
 
-I am an expert in Python, Django, HTTP APIs, Service Oriented Architectures, and Domain Driven Design.
+I love building things with Python, Django, HTTP APIs, Service Oriented Architectures, and Domain Driven Design.
 
 I have over 6 years experience working with tech companies in London and San Francisco.
 
