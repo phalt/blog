@@ -1,24 +1,24 @@
 ---
-title: "An Infinitely Protean Machine"
+title: "Paul writes software"
 date: 2018-06-06T03:00:53+06:00
 draft: false
 ---
 
-Paul is a passionate Senior Software Engineer.
+I am a passionate Technologist.
 
-He is an expert in Python, Django, HTTP APIs, Service Oriented Architectures, and Software Testing.
+I am an expert in Python, Django, HTTP APIs, Service Oriented Architectures, and Domain Driven Design.
 
-He has over 6 years experience working with growing tech startups in London and San Francisco.
+I have over 6 years experience working with tech companies in London and San Francisco.
 
-He has 2 years experience as a Tech Lead.
+I have 2 years experience as a Tech Lead in blitz-growth companies, managing teams of 20+ developers.
 
-Paul specialises in the design, implementation, and maintenance of large scale, distributed services.
+I specialise in the design, implementation, and maintenance of large scale, distributed services.
 
-Paul is a member of the [Django Software Foundation](https://www.djangoproject.com/foundation/).
+I was awarded membership of the [Django Software Foundation](https://www.djangoproject.com/foundation/) for my contribution to the community in 2015.
 
-In his spare time Paul enjoys bouldering, drinking coffee and craft beer, traveling, and board games.
+In my spare time I enjoy bouldering, drinking coffee and craft gin, traveling, and board games.
 
-Paul has extensive experience working with the following technologies:
+I hav extensive experience working with the following technologies:
 
 - Python 3
 - Django
@@ -27,9 +27,10 @@ Paul has extensive experience working with the following technologies:
 - Postgres
 - Git
 - HTTP
+- REST
 - graphQL
 
-Paul has worked with the following technologies in the past:
+I have also worked with the following technologies in the past:
 
 - PHP
 - C++
@@ -37,9 +38,9 @@ Paul has worked with the following technologies in the past:
 - C#
 - ember.js
 
-Paul enjoys the following methodologies:
+I really enjoy the following methodologies:
 
 - Agile
 - Test Driven Development
 - Service Oriented Architectures
-- Business Driven Development
+- Domain Driven Design
