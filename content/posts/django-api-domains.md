@@ -1,6 +1,6 @@
 ---
 title: "Django API Domain styleguide"
-date: 2019-03-01T17:03:00+00:00
+date: 2019-02-01T17:03:00+00:00
 draft: false
 ---
 
@@ -14,7 +14,7 @@ As we grew the team and took on more feature requests, we started to be contrain
 
 ## Django's styleguide is old
 
-Something about this struck me as odd - I've worked with Django since 2012, and I only remember once using it to render HTML. Nearly all my time with Django, and all the time I have seen Django being talked about at conferences, is to provide an API (usually with [Django REST Framework](https://www.django-rest-framework.org/)) to a frontend project. **I would argue that this is actually the defacto standard for Django today**. The documentation is probably out of date now. This is generally a trend I am seeing with Django - the project is trying to modernise [how it is run](https://github.com/django/deps/pull/47) and even [how to handle async properly](https://github.com/django/deps/blob/master/draft/0006-channels.rst).
+Something about this struck me as odd - I've worked with Django since 2012, and I only remember once using it to render HTML. Nearly all my time with Django, and all the time I have seen Django being talked about at conferences, is to provide an API (usually with [Django REST Framework](https://www.django-rest-framework.org/)) to a frontend project. I would argue that this is actually the defacto standard for Django today. The documentation is probably out of date now. This is generally a trend I am seeing with Django - the project is trying to modernise [how it is run](https://github.com/django/deps/pull/47) and even [how to handle async properly](https://github.com/django/deps/blob/master/draft/0006-channels.rst).
 
 **Maybe it is time Django re-considered the design patterns it suggests for developers?**
 
@@ -34,7 +34,7 @@ I am publishing an OS copy of the styleguide today to gather feedback and share 
 
 You can now read the [Django API Domain Styleguide here](https://github.com/phalt/django-api-domains).
 
-![dads](https://github.com/phalt/django-api-domains/blob/master/diagrams/dads_main.png)
+![dads](https://raw.githubusercontent.com/phalt/django-api-domains/master/diagrams/dads_main.png)
 
 ## The Goals
 
