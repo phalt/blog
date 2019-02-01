@@ -1,5 +1,5 @@
 ---
-title: "Scaling Django API projects"
+title: "Django API Domain styleguide"
 date: 2019-03-01T17:03:00+00:00
 draft: false
 ---
