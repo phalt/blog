@@ -4,7 +4,7 @@ date: 2019-02-01T17:03:00+00:00
 draft: false
 ---
 
-I've spent the past two years working with a fun little [company](https://www.babylonhealth.com) in the _healthtech_ world.
+I've spent the past two years working with a fun little [company](https://www.babylonhealth.com) in the healthtech world.
 
 In January 2018 my team was 2 engineers with a vague idea about solving a growing data problem. Today it is a 28-strong team building a blitz-scaling ML model management system that powers AI symptom checkers across the globe. To manage the ML model powering this AI, we have built a sophisticated _Model Management Service_ that doctors use to moderate medical concepts, their relationships to each other (things like "a cough can be caused by the flu") and teach the ML Model the probability of that relationship in different parts of the world.
 
