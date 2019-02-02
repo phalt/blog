@@ -42,6 +42,6 @@ googleAnalytics = "UA-XXXXXX-1"
   weight = 2
 
 [[menu.projects]]
-  name = "Beckett - HTTP API client"
-  url = "https://phalt.github.io/beckett/"
+  name = "Django API Styleguide"
+  url = "https://github.com/phalt/django-api-domains"
   weight = 3
