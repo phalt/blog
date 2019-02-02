@@ -1,25 +1,29 @@
 baseURL = "https://phalt.github.io/"
 languageCode = "en-gb"
-title = "An Infinitely Protean Machine"
-theme = "pristine"
+title = "Paul writes software"
+theme = "basics"
 canonifyURLs = true
 enableEmoji = true
 googleAnalytics = "UA-XXXXXX-1"
+paginate = 3
 [params]
     portrait = "img/portrait.jpg"
-
-[[params.social]]
-    title = "Email"
-    url = "mailto:paulandrewhallett@gmail.com"
-[[params.social]]
-    title = "Follow @phalt_"
+    author = "Paul Hallett"
+    github = "phalt"
+    twitter = "phalt_"
+    description = "Paul writes software"
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/phalt"
+    [[params.social]]
+        name = "twitter"
     url = "https://twitter.com/phalt_"
-[[params.social]]
-    title = "Github"
-    url = "https://github.com/phalt"
-[[params.social]]
-    title = "CV"
-    url = "https://stackoverflow.com/cv/phalt"
+    [[params.social]]
+        name = "email"
+        url = "mailto:paulandrewhallett@gmail.com"
+    [[params.social]]
+        name = "CV"
+        url = "https://stackoverflow.com/cv/phalt"
 
 [[menu.main]]
   name = "Home"
