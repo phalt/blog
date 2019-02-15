@@ -100,16 +100,18 @@ The first thing we should do is break it down into two problems:
 
 For existing parts of the codebase you could document it all. All the weird design decisions, all the legacy bits, and all the bad decisions. A lot of [people prefer to do this](https://twitter.com/phalt_/status/1095280575617871877) but it is a short-term solution.
 
-Your documentation for the legacy code will become it's own debt that you have to support. Also, the old code is still not fixed. If you are able to you should refactor and tidy the code instead. The only downside is that this takes longer to complete. So instead uou can clean some areas and isolate legacy parts over time. This is an especially good choice if you know a whole area of your code won't be updated for a while. Priortise tidying up the areas that will change a lot.
+Your documentation for the legacy code will become it's own debt that you have to support. Also, the old code is still not fixed. If you can you should refactor and tidy the code instead. The only downside is that this takes longer to complete. So instead you can clean some areas and isolate legacy parts over time. This is an especially good choice if you know a whole area of your code won't be updated for a while. Priortise tidying up the areas that will change a lot.
 
 And what about future parts of the codebase?
 
 I've already expressed the need for a styleguide. I would like to double-down on the benefit of having one specific to your project and your problem. It's not the first thing developers think of to help them improve their productivity. Usually we blame poor requirements or legacy code. If we had good requirements, but we didn't follow patterns for the new code we wrote - then that new code becomes legacy in about three months. So having a styleguide helps developers make consistent decisions when they build new parts of the codebase.
 
-I'm not saying these two things will solve all your problems. You should still collect a comprehensive view of your project for new starters - domain diagrams, check lists, and one-liner `make install` commands in your projects. Combined with consistent software patterns - the cognitive load for new developers will be greatly reduced.
+I'm not saying these two things will solve all your problems. You should still collect a comprehensive view of your project for new starters - domain diagrams, check lists, and one-liner `make install` commands. Combined with consistent software patterns - the cognitive load for new developers will be greatly reduced.
 
 # Wrap up
 
 So that's that. Our project is running smoothly. We have some autonomous teams of good size who are proactively refactoring as they develop software. Anything new that is written follows a common pattern and it's easy to jump between areas of the codebase and know how it is organised. We regularly reflect on our holistic view of the project when we start new features or we want to refactor software. It took us a while to get here, and we have more things we can do to improve, but we've learned.
+
+Scaling software teams is really difficult, but it's achievable.
 
 Thanks for reading, and please give me feedback on [twitter](https://twitter.com/phalt_)!
