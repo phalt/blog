@@ -82,7 +82,7 @@ When you are scaling your software team, you need to find the *Kame no Itte* of 
 <hr>
 </div>
 
-This design choice has made it simple to add new features, refactor existing components, and isolate legacy areas of our code. We're able to react to changes in priorities or extending functionality in areas of our code. This is like to how a *Kame no Itte* allows a Go player to always react to their opponent in a strong way. My suggestion to you is to read styleguides from other team and understand _why_ they were made. Take the bits you need to help with your own problems and share it with the team.
+This design choice has made it simple to add new features, refactor existing components, and isolate legacy areas of our code. We're able to react to changes in priorities or extending functionality in areas of our code. This is similar to how a *Kame no Itte* allows a Go player to always react to their opponent in a strong way. My suggestion to you is to read styleguides from other teams and understand _why_ they were made. Take the bits you need to help with your own problems and share it with the team.
 
 # Make it easy to learn new parts of the codebase
 
