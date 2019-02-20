@@ -1,51 +1,48 @@
 baseURL = "https://phalt.github.io/"
 languageCode = "en-gb"
 title = "Paul writes software"
-theme = "basics"
-canonifyURLs = true
-enableEmoji = true
-googleAnalytics = "UA-XXXXXX-1"
-paginate = 3
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-53299289-2"
+
+[imaging]
+  quality = 99
+
+[permalinks]
+  post = "/:filename/"
+
 [params]
     portrait = "img/portrait.jpg"
     author = "Paul Hallett"
-    github = "phalt"
-    twitter = "phalt_"
-    description = "Paul writes software"
-    [[params.social]]
-        name = "github"
-        url = "https://github.com/phalt"
-    [[params.social]]
-        name = "twitter"
-    url = "https://twitter.com/phalt_"
-    [[params.social]]
-        name = "email"
-        url = "mailto:paulandrewhallett@gmail.com"
-    [[params.social]]
-        name = "CV"
-        url = "https://stackoverflow.com/cv/phalt"
+    description = "Infinitely Protean Machine"
+    footer = "All content copyright Paul Hallett 2019"
 
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
-[[menu.main]]
-  name = "All Articles"
-  url = "/all/"
-  weight = 2
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
 
-[[menu.projects]]
-  name = "PokéAPI - The Pokémon API"
-  url = "https://pokeapi.co"
-  weight = 1
+  [[menu.nav]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
 
-[[menu.projects]]
-  name = "SWAPI - The Star Wars API"
-  url = "https://swapi.co"
-  weight = 2
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
 
-[[menu.projects]]
-  name = "Django API Styleguide"
-  url = "https://github.com/phalt/django-api-domains"
-  weight = 3
+  [[menu.foo]]
+    name = "PokéAPI - The Pokémon API"
+    url = "https://pokeapi.co"
+    weight = 3
+
+  [[menu.foo]]
+    name = "Django API Styleguide"
+    url = "https://github.com/phalt/django-api-domains"
+    weight = 4
