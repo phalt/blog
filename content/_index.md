@@ -4,47 +4,30 @@ date: 2019-02-01T03:00:53+06:00
 draft: false
 ---
 
-I love building things with Python, Django, HTTP, and Domain Driven Design.
+I love building things with Python and Django.
 
-I specialise in the design and implementation of large, distributed services. I have been writing software for over six years with tech companies in London and San Francisco.
+I specialise in the design and implementation of APIs services. I have created some of the most [popular](https://pokeapi.co) free APIs on [the web](https://swapi.co) which are designed to demonstrate good REST practices.
 
-I was awarded membership of the [Django Software Foundation](https://www.djangoproject.com/foundation/) for my contribution to the community in 2015. 💚
+More recently I have become interested in GraphQL. I am currently contributing to the [graphene](https://graphene-python.org/) project, specifically the [graphene-django](https://github.com/graphql-python/graphene-django) plugin and the [graphene 3](https://github.com/graphql-python/graphene/blob/master/ROADMAP.md#graphene-3) release.
 
 ## Tech
 
-I have extensive experience working with the following technologies:
+I have extensive professional experience working with Python 3, Django, Javascript, and React.
 
-- Python 3
-- Django
-- Javascript
-- React
-- Postgres
-- Git
-- HTTP
-- REST
-- graphQL
+I enjoy Agile processes, Test Driven Development, and Domain Driven Design.
 
-I have also worked with the following technologies in the past:
+## Community
 
-- PHP
-- C++
-- Java
-- C#
-- ember.js
+I was awarded membership of the [Django Software Foundation](https://www.djangoproject.com/foundation/) for my contribution to the community in 2015. 💚
 
-I really enjoy the following methodologies:
-
-- Agile
-- Test Driven Development
-- Service Oriented Architectures
-- Domain Driven Design
-
-In my spare time I enjoy drinking coffee, drinking gin, traveling around the world, playing the boardgame Go, and learning Piano.
+The [PokéAPI project](https://github.com/pokeapi/) is a community of open source contributors that I started.
 
 ## Contact
 
-You can get in touch with me on [twitter](https://twitter.com/phalt_) and read my [cv here](https://stackoverflow.com/cv/phalt).
+I am available for API consultancy.
 
-👈 You can read my blog and see the projects I've built on the left hand side.
+ I will **soon be moving to Aotearoa New Zealand** so get in touch if you want to work with me!
+
+I am on [twitter](https://twitter.com/phalt_) and my [cv is here](https://stackoverflow.com/cv/phalt).
 
 <small>_Title logo made by [Becris](https://www.flaticon.com/authors/becris)_</small>
