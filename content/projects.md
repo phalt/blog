@@ -50,7 +50,7 @@ Following in the fashion of PokéAPI, SWAPI provides structured data about the S
 Has been used in many examples of good API design around the world, and the official [graphQL](https://graphql.org) documentation even makes their own graphQL-version based on the data.
 
 - Website: [https://swapi.co](https://swapi.co)
-- Github: [https://github.com/phalt/swapi](https://github.com/phalt/swapi))
+- Github: [https://github.com/phalt/swapi](https://github.com/phalt/swapi)
 
 <hr>
 
