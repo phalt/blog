@@ -18,9 +18,10 @@ I enjoy Agile processes, Test Driven Development, and Domain Driven Design.
 
 ## Community
 
-I was awarded membership of the [Django Software Foundation](https://www.djangoproject.com/foundation/) for my contribution to the community in 2015. 💚
+I was awarded "individual" membership of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
+Individual members  are appointed by the DSF in recognition of their service to the Django community.
 
-The [PokéAPI project](https://github.com/pokeapi/) is a community of open source contributors that I started.
+The [PokéAPI project](https://github.com/pokeapi/) is a community of open source contributors that I started, currently receiving over 100,000 API requests a month.
 
 ## Contact
 
@@ -28,6 +29,6 @@ I am available for API consultancy.
 
  I will **soon be moving to Aotearoa New Zealand** so get in touch if you want to work with me!
 
-I am on [twitter](https://twitter.com/phalt_) and my [cv is here](https://stackoverflow.com/cv/phalt).
+I am on [twitter](https://twitter.com/phalt_) and my [cv is here](https://www.dropbox.com/s/0atn5dc7tmazk0c/paul_hallett.pdf?dl=0).
 
 <small>_Title logo made by [Becris](https://www.flaticon.com/authors/becris)_</small>
