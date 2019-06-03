@@ -24,7 +24,7 @@ Another downside to the Hacksoft pattern that we had to deal with, which I think
 
 What we wanted in our styleguide was a pattern that encouraged strong [bounded contexts](https://www.martinfowler.com/bliki/BoundedContext.html) between the "domains", encouraged "skinny models" so that developers didn't put a boat load of code into one place, and was generally flexible enough to suit most situations.
 
-## Long like Django API Domains styleguide!
+## Long live Django API Domains styleguide!
 
 We started to take the parts of Hacksoft's styleguide and adapt it to suit our own needs. We encouraged skinny models and a strongly-bounded-context between our "domains" (basically Django's apps). We were then told that we had to start scaling the software fast, very fast. I'm not talking _"make the software 10x faster"_ fast, I mean _"deliver 10x more features on this now, here is 12 developers, go."_ fast. It was a crazy hectic time. Probably one of the hardest times of my career so far. This styleguide emerged from it, and so far it has proven useful for us.
 
