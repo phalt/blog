@@ -1,7 +1,7 @@
 ---
 title: "I'm moving to New Zealand"
-date: 2019-05-04T10:00:00+01:00
-draft: true
+date: 2019-06-04T10:00:00+01:00
+draft: false
 ---
 
 I've spent about six years in London.
