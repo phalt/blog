@@ -1,6 +1,6 @@
 ---
 title: "I'm moving to New Zealand"
-date: 2019-06-04T10:00:00+01:00
+date: 2019-06-04T09:00:00+01:00
 draft: false
 ---
 
