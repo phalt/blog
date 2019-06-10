@@ -13,7 +13,7 @@ draft: false
 The accumulation of years working with Django in high-growth companies, this styleguide emphasises pragmatic decisions for scaling the number of developers you can have working in a project, and making it easy to refactor and split it into micro-projects in the future.
 
 
-- Github: [https://github.com/phalt/django-api-domains](https://github.com/phalt/django-api-domains)
+- Project page: [https://phalt.github.io/django-api-domains](https://phalt.github.io/django-api-domains)
 
 <hr>
 
