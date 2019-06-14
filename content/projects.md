@@ -12,10 +12,9 @@ draft: false
 
 The accumulation of years working with Django in high-growth companies, this styleguide emphasises pragmatic decisions for scaling the number of developers you can have working in a project, and making it easy to refactor and split it into micro-projects in the future.
 
-
-- Project page: [https://phalt.github.io/django-api-domains](https://phalt.github.io/django-api-domains)
-
-<hr>
+<div style="text-align:center;">
+<a href="https://github.com/phalt/django-api-domains" style="border-bottom:none"><img src="https://gh-card.dev/repos/phalt/django-api-domains.svg"></a>
+</div>
 
 ## graphene-django-sentry
 **2018**
@@ -23,7 +22,9 @@ The accumulation of years working with Django in high-growth companies, this sty
 A plugin that allows [Sentry](https://sentry.io) to work nicely with [Graphene-django](https://github.com/graphql-python/graphene-django).
 
 
-- Github: [https://github.com/phalt/graphene-django-sentry](https://github.com/phalt/graphene-django-sentry)
+<div style="text-align:center;">
+<a href="https://github.com/phalt/graphene-django-sentry" style="border-bottom:none"><img src="https://gh-card.dev/repos/phalt/graphene-django-sentry.svg"></a>
+</div>
 
 <hr>
 
@@ -36,7 +37,9 @@ Mostly an experiment with the following hypothesis:
 
 _"If we all built truly RESTful APIs, could we autogenerate clients for them?"_
 
-- Github: [https://github.com/phalt/beckett](https://github.com/phalt/beckett)
+<div style="text-align:center;">
+<a href="https://github.com/phalt/beckett" style="border-bottom:none"><img src="https://gh-card.dev/repos/phalt/beckett.svg"></a>
+</div>
 
 
 <hr>
@@ -50,7 +53,9 @@ Following in the fashion of PokéAPI, SWAPI provides structured data about the S
 Has been used in many examples of good API design around the world, and the official [graphQL](https://graphql.org) documentation even makes their own graphQL-version based on the data.
 
 - Website: [https://swapi.co](https://swapi.co)
-- Github: [https://github.com/phalt/swapi](https://github.com/phalt/swapi)
+<div style="text-align:center;">
+<a href="https://github.com/phalt/swapi" style="border-bottom:none"><img src="https://gh-card.dev/repos/phalt/swapi.svg"></a>
+</div>
 
 <hr>
 
@@ -64,7 +69,9 @@ Originally used Django, now generated statically hosted JSON files for the data.
 Serves around 100,000 requests per day.
 
 - Website: [https://pokeapi.co](https://pokeapi.co)
-- Github: [https://github.com/pokeapi](https://github.com/pokeapi)
+<div style="text-align:center;">
+<a href="https://github.com/pokeapi/pokeapi" style="border-bottom:none"><img src="https://gh-card.dev/repos/pokeapi/pokeapi.svg"></a>
+</div>
 
 <hr>
 
