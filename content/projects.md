@@ -64,7 +64,7 @@ Has been used in many examples of good API design around the world, and the offi
 
 I created PokéAPI, the first API for Pokémon data.
 
-Originally used Django, now generated statically hosted JSON files for the data.
+Originally used Django, now generates statically hosted JSON files for the data.
 
 Serves around 100,000 requests per day.
 
