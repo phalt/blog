@@ -4,7 +4,7 @@ date: 2019-02-01T03:00:53+06:00
 draft: false
 ---
 
-I love building things with Python and Django.
+I love building things with Python, JS, React, and Django.
 
 I specialise in the design and implementation of APIs services. I have created some of the most [popular](https://pokeapi.co) free APIs on [the web](https://swapi.co) which are designed to demonstrate good REST practices.
 
@@ -12,7 +12,7 @@ More recently I have become interested in GraphQL. I am currently contributing t
 
 ## Tech
 
-I have extensive professional experience working with Python 3, Django, Javascript, and React.
+I have extensive professional experience working with the Python and Javascript languages and a host of tools in both ecosystems (React, Redux, Jest, Enyzme, Apollo, Django, Flask, DRF, Graphene, and Pytest).
 
 I enjoy Agile processes, Test Driven Development, and Domain Driven Design.
 
