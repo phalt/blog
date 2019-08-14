@@ -31,7 +31,7 @@ I try to advocate responsible eating (I'm veggie) and responsible travelling. I'
 
 ## Contact
 
- I will **soon be moving to Aotearoa New Zealand** so get in touch if you want to work with me!
+ I will **soon be moving to Aotearoa New Zealand**!
 
 I am on [twitter](https://twitter.com/phalt_) and my [cv is here](https://www.dropbox.com/s/0atn5dc7tmazk0c/paul_hallett.pdf?dl=0).
 
