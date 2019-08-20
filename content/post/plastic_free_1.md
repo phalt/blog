@@ -36,13 +36,6 @@ I was home alone for dinner and I wanted to finish some  video game stuff so I w
 * Finished a bottle of mouthwash.
 * Plastic box for pasta.
 
-<div style="text-align:center;">
-<hr>
-<img src="https://raw.githubusercontent.com/phalt/blog/master/static/plastic_1.jpg">
-<hr>
-<p style="font-style: italic">Nut free, natural, healthy - but a plastic wrapping!</p>
-</div>
-
 ### Tuesday
 
 I felt guilty about the plastic breakfast bar I had yesterday. I  grabbed a fresh muffin instead, but I couldn’t find a paper bag for it. The cafe only supplied half-paper-half-plastic bags so I can oogle my  food (?!?) before I take it out of the wrapping. Totally unnecessary.
@@ -57,13 +50,6 @@ I had Leon for lunch, which means zero plastic and I can recycle most of it. Eve
 * Pre-cut vegetables in a package.
 * Fresh noodles in a tub.
 * Two packets of crisps.
-
-<div style="text-align:center;">
-<hr>
-<img src="https://raw.githubusercontent.com/phalt/blog/master/static/plastic_2.jpg">
-<hr>
-<p style="font-style: italic">I bet a soda stream would be cheaper</p>
-</div>
 
 ### Wednesday
 
