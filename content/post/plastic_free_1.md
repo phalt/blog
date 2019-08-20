@@ -1,6 +1,6 @@
 ---
-title: "Plastic free: part 1"
-date: 2019-08-12T09:00:00+01:00
+title: "Plastic Free: part 1"
+date: 2019-08-20T09:00:00+01:00
 draft: false
 ---
 
@@ -56,10 +56,67 @@ I had Leon for lunch, which means zero plastic and I can recycle most of it. Eve
 * Plastic film bag for my breakfast muffin.
 * Pre-cut vegetables in a package.
 * Fresh noodles in a tub.
+* Two packets of crisps.
 
 <div style="text-align:center;">
 <hr>
 <img src="https://raw.githubusercontent.com/phalt/blog/master/static/plastic_2.jpg">
 <hr>
-<p style="font-style: italic">Such a waste</p>
+<p style="font-style: italic">I bet a soda stream would be cheaper</p>
 </div>
+
+### Wednesday
+
+It rained today. A lot. I bought another one of those breakfast bars. They're just so tasty. I wonder if I can make something like it at home.
+For lunch I ate some stuff from Eat who do an awful job with their plastic reduction.
+
+> Side note: I set up [ecosia](https://www.ecosia.org/) search on my work laptop today. You can help plant trees whilst you search the internet!
+
+We're having a pretty bad week with dinners as we didn't go shopping on Monday and we both got home late today. So we're stuck with a couple of ready-made meals, covered in plastic.
+
+**Wednesday plastic**
+
+* Breakfast bar.
+* Mac & cheese packaging.
+* Packet of crisps.
+* EAT fudge bar in wrapping.
+* Ready-made dinner in a plastic container.
+
+### Thursday
+
+I figured out the problem with plastic wrapping at the cafe. I picked up a [blondie](https://en.wikipedia.org/wiki/Blondie_%28confection%29) and used a couple of napkins to wrap it in. No more plastic! I had veggie sushi for lunch from waitrose. It was a plastic nightmare. I am discovering that my plastic-free lifestyle might not be as plastic-free as I originally thought.
+
+> Side note: I found these super tasty [chocolate covered fudge bars](https://www.buttermilk.co.uk/shop/fudge/milk-chocolate-caramel-sea-salt-fudge-bar/) that are palm oil free. They are also wrapped in paper. Guilt free indulgence.
+
+Once again, we popped to the shops and got dinner. This time I made a mushroom & spinach spaghetti thing. Nearly all of it came in some form of plastic.
+
+**Thursday plastic**
+
+* Plastic case for sushi at lunch.
+* Also had a few plastic wrappers for ginger and soy sauce.
+* Crisps for lunch.
+* Mushrooms in a wrap and box.
+* Spinach in a bag.
+* Spaghetti in a wrapper.
+
+### Friday
+
+I've noticed how bad my plastic use has been this week, and so I am torn between being a good human or changing the parameters of the experiement. I need this to be a control week, so I will go against every ethical fibre in my body and pretend like I am not tracking my plastic usage. Luckily I worked from home today. I do this at least once a week. I usually have breakfast, lunch, and dinner at home. So that should have a good hit on my plastic usage.
+
+I got breakfast from a local café - pistachio croissant and coffee. Lunch was just salad and things from what we already had in the house. For dinner, I went with my partner and her parents to a Tagine resturant. That was a really easy day.
+
+**Friday plastic**
+
+* Probably something.
+
+### The weekend
+
+I'm grouping Saturday and Sunday together for a good reason. This weekend I had friends and family join me for my 30th birthday party in a brewery. It was quite a hectic weekend and I struggled to keep track of what we used (plastic-wise). I know we did use a few things, but I felt like it was a very atypical weekend. For that reason, I am omitting the it from my experiment. I will obviously do this for the plastic-free week too.
+
+## So what's next?
+
+Well first things first - I definitely use more plastic than I thought.
+
+I want to break this into about three blog posts. The next one will be analysing how I am using so much plastic, and how much that matters. The third post will be a record of my plastic-free week. Hopefully I can cut down my waste.
+
+Do you try to use less plastic? Have you considered tracking a typical week to see how much you use? Let me know on [twitter](https://twitter.com/phalt_).
