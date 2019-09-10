@@ -1,6 +1,6 @@
 ---
 title: "Plastic Free: part 1"
-date: 2019-08-20T09:00:00+01:00
+date: 2019-09-10T09:00:00+01:00
 draft: false
 ---
 
@@ -14,13 +14,13 @@ When you are consciously trying cut down the amount of plastic you waste it is e
 
 So I think I do a pretty good job already but I wanted to measure how much I _actually use_ in a typical week. Being a nerd; I wanted to measure this scientifically by carrying out an experiment.
 
-I will document a week where I buy things as I have been doing, then I will try and do a plastic-free week and see how easy it is to cut down (either entirely or greatly) my plastic waste. I'll also weigh my recylcing bag at the end of the week to see if I've reduced the amount of plastics in it.
+I will document a week where I buy things as I have been doing, then I will try and do a plastic-free week and see how easy it is to cut down (either entirely or greatly) my plastic waste.
 
 ## How much plastic am I really wasting?
 
 ### Monday
 
-I filled up my water bottle and grab a coffee on the way to work. I use my _ecoffee cup_ to avoid a disposable cup. I bought a little breakfast snack bar that toots it's own horn about it begin vegan and palm-oil free but [the wrapping is definitely plastic](https://jenksbrands.com/pages/eatcrete-nougat-bar). Ah well, it's better to cut down on a few things than to not cut down at all.
+I filled up my water bottle and grab a coffee on the way to work. I use my _ecoffee cup_ to avoid a disposable cup. I bought a little breakfast snack bar that toots it's own horn about it being vegan and palm-oil free but [the wrapping is definitely plastic](https://jenksbrands.com/pages/eatcrete-nougat-bar). Ah well, it's better to cut down on a few things than to not cut down at all.
 
 We had lunch in a restaurant because we had a new person join my work team. No plastic, and I even got the meal for free!
 
@@ -93,16 +93,16 @@ I got breakfast from a local café - pistachio croissant and coffee. Lunch was j
 
 **Friday plastic**
 
-* Probably something.
+* I think I actually avoided buying plastic today.
 
 ### The weekend
 
-I'm grouping Saturday and Sunday together for a good reason. This weekend I had friends and family join me for my 30th birthday party in a brewery. It was quite a hectic weekend and I struggled to keep track of what we used (plastic-wise). I know we did use a few things, but I felt like it was a very atypical weekend. For that reason, I am omitting the it from my experiment. I will obviously do this for the plastic-free week too.
+I'm grouping Saturday and Sunday together for a good reason. This weekend I had friends and family join me for my 30th birthday party in a brewery. It was quite a hectic weekend and I struggled to keep track of what we used (plastic-wise). I know we did use a few things, but I felt like it was a very atypical weekend. For that reason, I am omitting it from my experiment. I will obviously do this for the plastic-free week in order to keep it fair.
 
 ## So what's next?
 
 Well first things first - I definitely use more plastic than I thought.
 
-I want to break this into about three blog posts. The next one will be analysing how I am using so much plastic, and how much that matters. The third post will be a record of my plastic-free week. Hopefully I can cut down my waste.
+I want to break this into about three blog posts. The next one will be analysing how I am using so much plastic, and how much that matters. Maybe I'll look at what the current average usage in the UK is versus my usage. The third post will be a record of my plastic-free week. Hopefully I can cut down my waste.
 
 Do you try to use less plastic? Have you considered tracking a typical week to see how much you use? Let me know on [twitter](https://twitter.com/phalt_).

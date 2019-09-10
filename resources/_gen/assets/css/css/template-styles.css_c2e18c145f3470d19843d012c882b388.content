@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Miriam Libre';
-    src: url('https://phalt.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://phalt.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
+    src: url('http://localhost:1313/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('http://localhost:1313/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -76,6 +76,12 @@ figure p img {
 }
 a {
   outline-offset: 2px;
+}
+
+/* Katex math typesetting */
+.katex * {
+    margin-top: 0;
+    background-color: transparent;
 }
 
 /* Fix for IE :( */
@@ -401,7 +407,8 @@ caption {
   background-color: #111;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
-  padding: 0.5em 1em 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 /* Menu button */
@@ -427,6 +434,18 @@ caption {
 .toc ol {
     margin-left: 0.75rem;
     margin-top: 0.5rem;
+}
+
+/* Disqus Comments */
+#disqus-container {
+  text-align: center;
+}
+#disqus-button {
+  width: 100%;
+  padding: 0.25em 0.75em;
+}
+#disqus-comments {
+  display: none; 
 }
 
 /* Pattern lists */
@@ -490,7 +509,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://phalt.github.io/css/images/stripe.svg);
+    background-image: url(http://localhost:1313/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -509,7 +528,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://phalt.github.io/css/images/icon-tick.svg);
+    background-image: url(http://localhost:1313/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
