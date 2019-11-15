@@ -71,10 +71,3 @@ Learn how your new software works.
 Learn how your new team works.
 
 Start contributing value, not just through writing code. Figure out how you can help your team members too.
-
-
-bing another developer and drawing an entity relationship diagram on a whiteboard.
-
-It will help you understand the important parts of the system. You should use this time to ask questions. Make no assumptions about how things work.
-
-## Complete a small task
