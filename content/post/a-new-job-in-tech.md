@@ -60,7 +60,7 @@ In my experience, I spent an hour learning about one of the projects I am workin
 
 ## Complete a small programming task
 
-Some blog posts have recommended just this one point: ship some code on your first day. I guess the intention is to help you understand the procedure for shipping code. Learning how the team tests, reviews code, and ships it is definitely valuable. But I don't think it needs to be the absolute first thing you do.
+Some blog posts have recommended this one point: ship some code on your first day. I guess the intention is to help you understand the procedure for shipping code. Learning how the team tests, reviews code, and ships it is definitely valuable. But I don't think it needs to be the absolute first thing you do.
 
 **I recommend taking on a small programming task in your first week**.
 
